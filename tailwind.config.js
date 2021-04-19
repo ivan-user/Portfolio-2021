@@ -3,8 +3,9 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     backgroundColor: theme => ({
-        'primary': '#3490dc',
-        'secondary': '#ffed4a',
+        'primary': '#333533',
+        'secondary': '#FFE5D4',
+        'tertiary': '#61E8E1',
         'danger': '#e3342f',
     }),
     extend: {},
